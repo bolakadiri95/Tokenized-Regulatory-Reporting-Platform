@@ -13,3 +13,7 @@ R
 "contracts/entity-verification.clar,6/6/660a74c2729ef5ed0792e040998f714055016c6e
 Q
 !tests/entity-verification.test.ts,6/b/6bf7f6b6710cedecd531e1b9498c8f97b41d9de1
+S
+#contracts/requirement-tracking.clar,4/d/4d150f3c35586e0035944a9cfdd1588fd50f1b97
+R
+"tests/requirement-tracking.test.ts,2/0/20c32321dc4f22eb6fa89a9b11471238848fb251
