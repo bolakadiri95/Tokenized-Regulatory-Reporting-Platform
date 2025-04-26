@@ -9,3 +9,7 @@ N
 contracts/data-collection.clar,8/e/8e0596740b3c1cadac393db7643b0ff43faaa29f
 M
 tests/data-collection.test.ts,2/5/2579f1e2229939c4dc58183c1ed84b0526eed87a
+R
+"contracts/entity-verification.clar,6/6/660a74c2729ef5ed0792e040998f714055016c6e
+Q
+!tests/entity-verification.test.ts,6/b/6bf7f6b6710cedecd531e1b9498c8f97b41d9de1
