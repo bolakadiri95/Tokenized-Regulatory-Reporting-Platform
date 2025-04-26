@@ -17,3 +17,7 @@ S
 #contracts/requirement-tracking.clar,4/d/4d150f3c35586e0035944a9cfdd1588fd50f1b97
 R
 "tests/requirement-tracking.test.ts,2/0/20c32321dc4f22eb6fa89a9b11471238848fb251
+V
+&contracts/submission-verification.clar,d/7/d77126c4477fc882f137583360342370bef87ac8
+U
+%tests/submission-verification.test.ts,f/e/fe4a86faaf5d6b86e64d8ce7b2242a1861106fc6
